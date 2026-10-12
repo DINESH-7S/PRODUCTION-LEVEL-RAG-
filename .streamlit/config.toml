@@ -1,0 +1,11 @@
+# Tokens from DESIGN.md
+[theme]
+base = "dark"
+primaryColor = "#3ecf8e"
+backgroundColor = "#0a0b0d"
+secondaryBackgroundColor = "#101215"
+textColor = "#eef0f2"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
